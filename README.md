@@ -1,3 +1,3 @@
 # firstrepository
 To test the function of github
-now this is edited repository.
+now this is edited repositor...
